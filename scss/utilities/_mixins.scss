@@ -1,0 +1,8 @@
+@mixin img($mgt: null, $mxw:null) {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: $mgt;
+    max-width: $mxw;
+    @content; 
+}

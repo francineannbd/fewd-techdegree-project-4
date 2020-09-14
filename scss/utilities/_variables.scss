@@ -1,0 +1,19 @@
+
+// Colors
+$white: #fff;
+$color-text: #777;
+
+$color-primary: #58e1c1;
+$color-secondary: #51ddfc;
+$color-hover: lighten($color-primary, 15%);
+
+$bg-theme: #927bc1;
+
+//Fonts
+$font-stack-primary: 'Lato', sans-serif;
+
+$font-weight-lgt: 300;
+$font-weight-bld: 700;
+
+// Media Queries
+$breakpoint: 768px;
