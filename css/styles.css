@@ -454,24 +454,49 @@ a .link {
   background-color: #51ddfc;
 }
 
-/* line 18, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+/* line 17, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+.default:hover {
+  background-color: #83e7fd;
+}
+
+/* line 21, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
 .error {
   background-color: #e4757a;
 }
 
-/* line 21, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+/* line 23, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+.error:hover {
+  background-color: #eca0a3;
+}
+
+/* line 27, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
 .info {
   background-color: #927bc1;
 }
 
-/* line 24, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+/* line 29, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+.info:hover {
+  background-color: #af9ed1;
+}
+
+/* line 33, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
 .success {
   background-color: #63cc82;
 }
 
-/* line 27, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+/* line 35, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+.success:hover {
+  background-color: #89d9a1;
+}
+
+/* line 39, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
 .warning {
   background-color: #fd7856;
+}
+
+/* line 41, ../../../Coding Projects/fewd-techdegree-project-4/scss/components/_buttons.scss */
+.warning:hover {
+  background-color: #fea088;
 }
 
 /* ============================================= */

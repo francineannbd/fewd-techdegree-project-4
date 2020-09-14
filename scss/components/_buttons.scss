@@ -12,18 +12,33 @@
     border-radius: 5px;
   }
 
-  .default {
+.default {
     background-color: $color-secondary;
+    &:hover {
+      background-color: $btn-def;
+    }
   }
 .error {
     background-color: #e4757a;
+    &:hover {
+      background-color: $btn-err;
+    }
   }
 .info {
     background-color: #927bc1;
+    &:hover {
+      background-color: $btn-info;
+    }
   }
 .success {
     background-color: #63cc82;
+    &:hover {
+      background-color: $btn-suc;
+    }
   }
 .warning {
     background-color: #fd7856;
+    &:hover {
+      background-color: $btn-warn;
+    }
   }

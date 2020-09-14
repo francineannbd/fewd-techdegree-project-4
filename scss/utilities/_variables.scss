@@ -9,6 +9,13 @@ $color-hover: lighten($color-primary, 15%);
 
 $bg-theme: #927bc1;
 
+// Buttons
+$btn-def: lighten($color-secondary, 10%);
+$btn-err: lighten(#e4757a, 10%);
+$btn-info: lighten(#927bc1, 10%);
+$btn-suc: lighten(#63cc82, 10%);
+$btn-warn: lighten(#fd7856, 10%);
+
 //Fonts
 $font-stack-primary: 'Lato', sans-serif;
 
